@@ -1,4 +1,4 @@
-# JavaScript Fundamentos
+# JavaScript Fundamentos 🟨
 
 Este projeto foi desenvolvido como exercício de introdução ao JavaScript.
 
