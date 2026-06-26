@@ -27,6 +27,4 @@ Ao abrir a página:
 - Um alerta é exibido na tela.
 - Após fechar o alerta, uma mensagem em negrito é escrita na página.
 
-## Autor
 
-Seu Nome
